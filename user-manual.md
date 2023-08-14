@@ -1,6 +1,6 @@
 # Eyelights User Manual
 
-[Eyelights](eyelights.com) is a therapy device designed to help with various neurological conditions. It uses LEDs that emit different colors and blinking patterns to stimulate the brain. This user manual summarizes information on the usage and care of this product.
+[Eyelights](https://eyelights.com/) is a therapy device designed to help with various neurological conditions. It uses LEDs that emit different colors and blinking patterns to stimulate the brain. This user manual summarizes information on the usage and care of this product.
 
 ## Overview
 
